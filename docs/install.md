@@ -11,7 +11,7 @@ Here is a step by step guide on how to build Conflux from the source code and ge
 
 ## Install Build Dependencies
 
-Conflux requires **Rust 1.42.0** to build,  `clang`, and `sqlite` to build.
+Conflux requires **Rust 1.42.0** ,  `clang`, and `sqlite` to build.
 
 We recommend installing Rust through [rustup](https://www.rustup.rs/). If you don't already have `rustup` or `clang`, you can install them like this:
 
